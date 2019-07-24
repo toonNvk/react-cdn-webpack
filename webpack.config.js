@@ -5,11 +5,7 @@ const DynamicCdnWebpackPlugin = require('dynamic-cdn-webpack-plugin');
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 
 module.exports = {
-    entry: {
-        'app': './app.js',
-        
-    },
-
+    entry: [ "./app.js"],   
     output: {
         path: path.resolve(__dirname, './build'),
     },
