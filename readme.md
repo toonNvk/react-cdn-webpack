@@ -17,3 +17,5 @@ using webpack to create react cdn with apollo method (send request with graphql)
 ## Example Source
 - [Example 1](https://thoughtbot.com/blog/setting-up-webpack-for-react-and-hot-module-replacement)
 - [Example 2](https://www.valentinog.com/blog/babel/)
+## Fix bug
+-[Open on IE](https://github.com/facebook/create-react-app/issues/6924)
